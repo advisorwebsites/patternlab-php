@@ -1,3 +1,38 @@
 @import "bourbon";
 @import "settings";
-@import "../bower_components/foundation/scss/foundation.scss";
+@import "../submodules/foundation/scss/foundation.scss";
+
+
+$colors: (
+  "white"           : $white,
+  "ghost"           : $ghost,
+  "snow"            : $snow,
+  "vapor"           : $vapor,
+  "white-smoke"     : $white-smoke,
+  "silver"          : $silver,
+  "smoke"           : $smoke,
+  "gainsboro"       : $gainsboro,
+  "iron"            : $iron,
+  "base"            : $base,
+  "aluminum"        : $aluminum,
+  "jumbo"           : $jumbo,
+  "monsoon"         : $monsoon,
+  "steel"           : $steel,
+  "charcoal"        : $charcoal,
+  "tuatara"         : $tuatara,
+  "oil"             : $oil,
+  "jet"             : $jet,
+  "black"           : $black,
+  "primary-color"   : $primary-color,
+  "secondary-color" : $secondary-color,
+  "alert-color"     : $alert-color,
+  "success-color"   : $success-color,
+  "warning-color"   : $warning-color,
+  "info-color"      : $info-color
+);
+
+@each $name, $color in $colors {
+  .background-#{$name} {
+    background: #{$color};
+  }
+}
