@@ -1,4 +1,6 @@
 @import "bourbon";
+@import "../submodules/animate-sass/animate";
+
 @import "settings";
 @import "../submodules/foundation/scss/foundation.scss";
 
@@ -35,4 +37,20 @@ $colors: (
   .background-#{$name} {
     background: #{$color};
   }
+}
+
+
+// For displaying font names from the settings SASS pages
+@mixin outputVarDef($var) {
+  &:after {
+    content: '#{$var}';
+    display: inline-block;
+  }
+}
+
+.font-primary {
+  @include outputVarDef($font-family-sans-serif);
+}
+.font-secondary {
+  @include outputVarDef($font-family-serif);
 }

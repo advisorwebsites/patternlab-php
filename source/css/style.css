@@ -8174,4 +8174,14 @@ th.hide-for-touch {
 /* line 34, /Users/lucasraw/Projects/git/patternlab-php/source/css/style.scss */
 .background-info-color {
   background: #a0d3e8; }
+
+/* line 43, /Users/lucasraw/Projects/git/patternlab-php/source/css/style.scss */
+.font-primary:after {
+  content: "Helvetica Neue, Helvetica, Roboto, Arial, sans-serif";
+  display: inline-block; }
+
+/* line 43, /Users/lucasraw/Projects/git/patternlab-php/source/css/style.scss */
+.font-secondary:after {
+  content: "Georgia, Cambria, Times New Roman, Times, serif";
+  display: inline-block; }
 /*# sourceMappingURL=style.css.map */
