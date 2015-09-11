@@ -6442,6 +6442,24 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/public\/patterns\/01-molecules-05-navigation-00-top-bar\/01-molecules-05-navigation-00-top-bar.escaped.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/public\/patterns\/01-molecules-05-navigation-00-top-bar\/01-molecules-05-navigation-00-top-bar.escaped.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/public\/patterns\/01-molecules-05-navigation-00-top-bar\/01-molecules-05-navigation-00-top-bar.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/public\/patterns\/01-molecules-05-navigation-00-top-bar\/01-molecules-05-navigation-00-top-bar.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
 	"\/public\/patterns\/01-molecules-05-navigation-01-footer-nav\/01-molecules-05-navigation-01-footer-nav.escaped.html": {
 		"fileType": 8192,
 		"ignore": 0,
@@ -6456,6 +6474,24 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/public\/patterns\/01-molecules-05-navigation-01-footer-nav\/01-molecules-05-navigation-01-footer-nav.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/public\/patterns\/01-molecules-05-navigation-01-top-bar-fixed\/01-molecules-05-navigation-01-top-bar-fixed.escaped.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/public\/patterns\/01-molecules-05-navigation-01-top-bar-fixed\/01-molecules-05-navigation-01-top-bar-fixed.escaped.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/public\/patterns\/01-molecules-05-navigation-01-top-bar-fixed\/01-molecules-05-navigation-01-top-bar-fixed.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/public\/patterns\/01-molecules-05-navigation-01-top-bar-fixed\/01-molecules-05-navigation-01-top-bar-fixed.html",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
@@ -6478,6 +6514,42 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/public\/patterns\/01-molecules-05-navigation-02-top-bar-contain-to-grid-fixed\/01-molecules-05-navigation-02-top-bar-contain-to-grid-fixed.escaped.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/public\/patterns\/01-molecules-05-navigation-02-top-bar-contain-to-grid-fixed\/01-molecules-05-navigation-02-top-bar-contain-to-grid-fixed.escaped.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/public\/patterns\/01-molecules-05-navigation-02-top-bar-contain-to-grid-fixed\/01-molecules-05-navigation-02-top-bar-contain-to-grid-fixed.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/public\/patterns\/01-molecules-05-navigation-02-top-bar-contain-to-grid-fixed\/01-molecules-05-navigation-02-top-bar-contain-to-grid-fixed.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/public\/patterns\/01-molecules-05-navigation-02-top-bar-contain-to-grid\/01-molecules-05-navigation-02-top-bar-contain-to-grid.escaped.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/public\/patterns\/01-molecules-05-navigation-02-top-bar-contain-to-grid\/01-molecules-05-navigation-02-top-bar-contain-to-grid.escaped.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/public\/patterns\/01-molecules-05-navigation-02-top-bar-contain-to-grid\/01-molecules-05-navigation-02-top-bar-contain-to-grid.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/public\/patterns\/01-molecules-05-navigation-02-top-bar-contain-to-grid\/01-molecules-05-navigation-02-top-bar-contain-to-grid.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
 	"\/public\/patterns\/01-molecules-05-navigation-03-pagination\/01-molecules-05-navigation-03-pagination.escaped.html": {
 		"fileType": 8192,
 		"ignore": 0,
@@ -6492,6 +6564,24 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/public\/patterns\/01-molecules-05-navigation-03-pagination\/01-molecules-05-navigation-03-pagination.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/public\/patterns\/01-molecules-05-navigation-03-top-bar-contain-to-grid\/01-molecules-05-navigation-03-top-bar-contain-to-grid.escaped.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/public\/patterns\/01-molecules-05-navigation-03-top-bar-contain-to-grid\/01-molecules-05-navigation-03-top-bar-contain-to-grid.escaped.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/public\/patterns\/01-molecules-05-navigation-03-top-bar-contain-to-grid\/01-molecules-05-navigation-03-top-bar-contain-to-grid.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/public\/patterns\/01-molecules-05-navigation-03-top-bar-contain-to-grid\/01-molecules-05-navigation-03-top-bar-contain-to-grid.html",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
@@ -6528,6 +6618,42 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/public\/patterns\/01-molecules-05-navigation-05-offcanvas-nav\/01-molecules-05-navigation-05-offcanvas-nav.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/public\/patterns\/01-molecules-05-navigation-06-breadcrumbs\/01-molecules-05-navigation-06-breadcrumbs.escaped.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/public\/patterns\/01-molecules-05-navigation-06-breadcrumbs\/01-molecules-05-navigation-06-breadcrumbs.escaped.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/public\/patterns\/01-molecules-05-navigation-06-breadcrumbs\/01-molecules-05-navigation-06-breadcrumbs.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/public\/patterns\/01-molecules-05-navigation-06-breadcrumbs\/01-molecules-05-navigation-06-breadcrumbs.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/public\/patterns\/01-molecules-05-navigation-07-pagination\/01-molecules-05-navigation-07-pagination.escaped.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/public\/patterns\/01-molecules-05-navigation-07-pagination\/01-molecules-05-navigation-07-pagination.escaped.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/public\/patterns\/01-molecules-05-navigation-07-pagination\/01-molecules-05-navigation-07-pagination.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/public\/patterns\/01-molecules-05-navigation-07-pagination\/01-molecules-05-navigation-07-pagination.html",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
