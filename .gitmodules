@@ -1,3 +1,6 @@
 [submodule "source/submodules/foundation"]
 	path = source/submodules/foundation
 	url = git@github.com:zurb/foundation.git
+[submodule "source/submodules/animate-sass"]
+	path = source/submodules/animate-sass
+	url = https://github.com/tgdev/animate-sass.git
