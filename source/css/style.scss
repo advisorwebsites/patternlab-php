@@ -1,8 +1,11 @@
 @import "bourbon";
 @import "../submodules/animate-sass/animate";
+$fi-path: "../submodules/foundation-icon-fonts/";
 
+@import "../submodules/foundation-icon-fonts/foundation-icons";
 @import "settings";
 @import "../submodules/foundation/scss/foundation.scss";
+
 
 
 $colors: (

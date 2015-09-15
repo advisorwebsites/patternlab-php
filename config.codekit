@@ -1,6 +1,6 @@
 {
 "CodeKitInfo": "This is a CodeKit 2.x project configuration file. It is designed to sync project settings across multiple machines. MODIFYING THE CONTENTS OF THIS FILE IS A POOR LIFE DECISION. If you do so, you will likely cause CodeKit to crash. This file is not useful unless accompanied by the project that created it in CodeKit 2. This file is not backwards-compatible with CodeKit 1.x. For more information, see: http:\/\/incident57.com\/codekit",
-"creatorBuild": "19033",
+"creatorBuild": "19051",
 "files": {
 	"\/core\/autoReloadServer.php": {
 		"fileType": 8192,
@@ -5632,6 +5632,24 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/public\/patterns\/00-atoms-03-lists-03-inline\/00-atoms-03-lists-03-inline.escaped.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/public\/patterns\/00-atoms-03-lists-03-inline\/00-atoms-03-lists-03-inline.escaped.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/public\/patterns\/00-atoms-03-lists-03-inline\/00-atoms-03-lists-03-inline.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/public\/patterns\/00-atoms-03-lists-03-inline\/00-atoms-03-lists-03-inline.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
 	"\/public\/patterns\/00-atoms-03-lists\/index.html": {
 		"fileType": 8192,
 		"ignore": 0,
@@ -6424,6 +6442,24 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/public\/patterns\/01-molecules-05-navigation--vertical\/01-molecules-05-navigation--vertical.escaped.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/public\/patterns\/01-molecules-05-navigation--vertical\/01-molecules-05-navigation--vertical.escaped.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/public\/patterns\/01-molecules-05-navigation--vertical\/01-molecules-05-navigation--vertical.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/public\/patterns\/01-molecules-05-navigation--vertical\/01-molecules-05-navigation--vertical.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
 	"\/public\/patterns\/01-molecules-05-navigation-00-primary-nav\/01-molecules-05-navigation-00-primary-nav.escaped.html": {
 		"fileType": 8192,
 		"ignore": 0,
@@ -6586,6 +6622,60 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/public\/patterns\/01-molecules-05-navigation-03-top-bar-sticky\/01-molecules-05-navigation-03-top-bar-sticky.escaped.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/public\/patterns\/01-molecules-05-navigation-03-top-bar-sticky\/01-molecules-05-navigation-03-top-bar-sticky.escaped.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/public\/patterns\/01-molecules-05-navigation-03-top-bar-sticky\/01-molecules-05-navigation-03-top-bar-sticky.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/public\/patterns\/01-molecules-05-navigation-03-top-bar-sticky\/01-molecules-05-navigation-03-top-bar-sticky.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/public\/patterns\/01-molecules-05-navigation-04-magellan\/01-molecules-05-navigation-04-magellan.escaped.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/public\/patterns\/01-molecules-05-navigation-04-magellan\/01-molecules-05-navigation-04-magellan.escaped.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/public\/patterns\/01-molecules-05-navigation-04-magellan\/01-molecules-05-navigation-04-magellan.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/public\/patterns\/01-molecules-05-navigation-04-magellan\/01-molecules-05-navigation-04-magellan.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/public\/patterns\/01-molecules-05-navigation-04-tabs-vertical\/01-molecules-05-navigation-04-tabs-vertical.escaped.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/public\/patterns\/01-molecules-05-navigation-04-tabs-vertical\/01-molecules-05-navigation-04-tabs-vertical.escaped.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/public\/patterns\/01-molecules-05-navigation-04-tabs-vertical\/01-molecules-05-navigation-04-tabs-vertical.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/public\/patterns\/01-molecules-05-navigation-04-tabs-vertical\/01-molecules-05-navigation-04-tabs-vertical.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
 	"\/public\/patterns\/01-molecules-05-navigation-04-tabs\/01-molecules-05-navigation-04-tabs.escaped.html": {
 		"fileType": 8192,
 		"ignore": 0,
@@ -6600,6 +6690,24 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/public\/patterns\/01-molecules-05-navigation-04-tabs\/01-molecules-05-navigation-04-tabs.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/public\/patterns\/01-molecules-05-navigation-04-top-bar-contain-to-grid\/01-molecules-05-navigation-04-top-bar-contain-to-grid.escaped.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/public\/patterns\/01-molecules-05-navigation-04-top-bar-contain-to-grid\/01-molecules-05-navigation-04-top-bar-contain-to-grid.escaped.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/public\/patterns\/01-molecules-05-navigation-04-top-bar-contain-to-grid\/01-molecules-05-navigation-04-top-bar-contain-to-grid.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/public\/patterns\/01-molecules-05-navigation-04-top-bar-contain-to-grid\/01-molecules-05-navigation-04-top-bar-contain-to-grid.html",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
@@ -6622,6 +6730,24 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/public\/patterns\/01-molecules-05-navigation-05-top-bar-contain-to-grid\/01-molecules-05-navigation-05-top-bar-contain-to-grid.escaped.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/public\/patterns\/01-molecules-05-navigation-05-top-bar-contain-to-grid\/01-molecules-05-navigation-05-top-bar-contain-to-grid.escaped.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/public\/patterns\/01-molecules-05-navigation-05-top-bar-contain-to-grid\/01-molecules-05-navigation-05-top-bar-contain-to-grid.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/public\/patterns\/01-molecules-05-navigation-05-top-bar-contain-to-grid\/01-molecules-05-navigation-05-top-bar-contain-to-grid.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
 	"\/public\/patterns\/01-molecules-05-navigation-06-breadcrumbs\/01-molecules-05-navigation-06-breadcrumbs.escaped.html": {
 		"fileType": 8192,
 		"ignore": 0,
@@ -6640,6 +6766,42 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/public\/patterns\/01-molecules-05-navigation-06-offcanvas-nav\/01-molecules-05-navigation-06-offcanvas-nav.escaped.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/public\/patterns\/01-molecules-05-navigation-06-offcanvas-nav\/01-molecules-05-navigation-06-offcanvas-nav.escaped.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/public\/patterns\/01-molecules-05-navigation-06-offcanvas-nav\/01-molecules-05-navigation-06-offcanvas-nav.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/public\/patterns\/01-molecules-05-navigation-06-offcanvas-nav\/01-molecules-05-navigation-06-offcanvas-nav.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/public\/patterns\/01-molecules-05-navigation-07-breadcrumbs\/01-molecules-05-navigation-07-breadcrumbs.escaped.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/public\/patterns\/01-molecules-05-navigation-07-breadcrumbs\/01-molecules-05-navigation-07-breadcrumbs.escaped.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/public\/patterns\/01-molecules-05-navigation-07-breadcrumbs\/01-molecules-05-navigation-07-breadcrumbs.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/public\/patterns\/01-molecules-05-navigation-07-breadcrumbs\/01-molecules-05-navigation-07-breadcrumbs.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
 	"\/public\/patterns\/01-molecules-05-navigation-07-pagination\/01-molecules-05-navigation-07-pagination.escaped.html": {
 		"fileType": 8192,
 		"ignore": 0,
@@ -6654,6 +6816,96 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/public\/patterns\/01-molecules-05-navigation-07-pagination\/01-molecules-05-navigation-07-pagination.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/public\/patterns\/01-molecules-05-navigation-08-pagination\/01-molecules-05-navigation-08-pagination.escaped.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/public\/patterns\/01-molecules-05-navigation-08-pagination\/01-molecules-05-navigation-08-pagination.escaped.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/public\/patterns\/01-molecules-05-navigation-08-pagination\/01-molecules-05-navigation-08-pagination.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/public\/patterns\/01-molecules-05-navigation-08-pagination\/01-molecules-05-navigation-08-pagination.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/public\/patterns\/01-molecules-05-navigation-09-sub-nav\/01-molecules-05-navigation-09-sub-nav.escaped.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/public\/patterns\/01-molecules-05-navigation-09-sub-nav\/01-molecules-05-navigation-09-sub-nav.escaped.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/public\/patterns\/01-molecules-05-navigation-09-sub-nav\/01-molecules-05-navigation-09-sub-nav.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/public\/patterns\/01-molecules-05-navigation-09-sub-nav\/01-molecules-05-navigation-09-sub-nav.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/public\/patterns\/01-molecules-05-navigation-10-magellan\/01-molecules-05-navigation-10-magellan.escaped.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/public\/patterns\/01-molecules-05-navigation-10-magellan\/01-molecules-05-navigation-10-magellan.escaped.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/public\/patterns\/01-molecules-05-navigation-10-magellan\/01-molecules-05-navigation-10-magellan.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/public\/patterns\/01-molecules-05-navigation-10-magellan\/01-molecules-05-navigation-10-magellan.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/public\/patterns\/01-molecules-05-navigation-11-icon-bar-horizontal\/01-molecules-05-navigation-11-icon-bar-horizontal.escaped.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/public\/patterns\/01-molecules-05-navigation-11-icon-bar-horizontal\/01-molecules-05-navigation-11-icon-bar-horizontal.escaped.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/public\/patterns\/01-molecules-05-navigation-11-icon-bar-horizontal\/01-molecules-05-navigation-11-icon-bar-horizontal.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/public\/patterns\/01-molecules-05-navigation-11-icon-bar-horizontal\/01-molecules-05-navigation-11-icon-bar-horizontal.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/public\/patterns\/01-molecules-05-navigation-12-icon-bar-vertical\/01-molecules-05-navigation-12-icon-bar-vertical.escaped.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/public\/patterns\/01-molecules-05-navigation-12-icon-bar-vertical\/01-molecules-05-navigation-12-icon-bar-vertical.escaped.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/public\/patterns\/01-molecules-05-navigation-12-icon-bar-vertical\/01-molecules-05-navigation-12-icon-bar-vertical.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/public\/patterns\/01-molecules-05-navigation-12-icon-bar-vertical\/01-molecules-05-navigation-12-icon-bar-vertical.html",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
@@ -6717,6 +6969,24 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/public\/patterns\/01-molecules-06-components-02-single-comment\/01-molecules-06-components-02-single-comment.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/public\/patterns\/01-molecules-06-components-03-orbit\/01-molecules-06-components-03-orbit.escaped.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/public\/patterns\/01-molecules-06-components-03-orbit\/01-molecules-06-components-03-orbit.escaped.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/public\/patterns\/01-molecules-06-components-03-orbit\/01-molecules-06-components-03-orbit.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/public\/patterns\/01-molecules-06-components-03-orbit\/01-molecules-06-components-03-orbit.html",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
@@ -7332,6 +7602,56 @@
 		"inputAbbreviatedPath": "\/public\/submodules\/animate-sass\/README.md",
 		"maskEmailAddresses": 1,
 		"outputAbbreviatedPath": "\/public\/submodules\/animate-sass\/README.html",
+		"outputFormat": 0,
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"parseMetadata": 1,
+		"processHTML": 0,
+		"randomFootnoteNumbers": 0,
+		"useCompatibilityMode": 0
+		},
+	"\/public\/submodules\/foundation-icon-fonts\/bower.json": {
+		"fileType": 524288,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/public\/submodules\/foundation-icon-fonts\/bower.json",
+		"orderOutput": 0,
+		"outputAbbreviatedPath": "\/public\/submodules\/foundation-icon-fonts\/bower-min.json",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1
+		},
+	"\/public\/submodules\/foundation-icon-fonts\/foundation-icons.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/public\/submodules\/foundation-icon-fonts\/foundation-icons.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/public\/submodules\/foundation-icon-fonts\/index.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/public\/submodules\/foundation-icon-fonts\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/public\/submodules\/foundation-icon-fonts\/README.md": {
+		"criticStyle": 0,
+		"enableFootnotes": 1,
+		"enableLabels": 1,
+		"enableSmartQuotes": 1,
+		"escapeLineBreaks": 0,
+		"fileType": 4096,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/public\/submodules\/foundation-icon-fonts\/README.md",
+		"maskEmailAddresses": 1,
+		"outputAbbreviatedPath": "\/public\/submodules\/foundation-icon-fonts\/README.html",
 		"outputFormat": 0,
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
@@ -18390,6 +18710,72 @@
 		"randomFootnoteNumbers": 0,
 		"useCompatibilityMode": 0
 		},
+	"\/source\/submodules\/foundation-icon-fonts\/_foundation-icons.scss": {
+		"createSourceMap": 1,
+		"debugStyle": 1,
+		"decimalPrecision": 10,
+		"fileType": 4,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/source\/submodules\/foundation-icon-fonts\/_foundation-icons.scss",
+		"outputAbbreviatedPath": "\/source\/submodules\/css\/_foundation-icons.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"shouldRunAutoprefixer": 1,
+		"shouldRunBless": 0,
+		"useLibsass": 1
+		},
+	"\/source\/submodules\/foundation-icon-fonts\/bower.json": {
+		"fileType": 524288,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/source\/submodules\/foundation-icon-fonts\/bower.json",
+		"orderOutput": 0,
+		"outputAbbreviatedPath": "\/source\/submodules\/foundation-icon-fonts\/bower-min.json",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1
+		},
+	"\/source\/submodules\/foundation-icon-fonts\/foundation-icons.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/source\/submodules\/foundation-icon-fonts\/foundation-icons.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/source\/submodules\/foundation-icon-fonts\/index.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/source\/submodules\/foundation-icon-fonts\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/source\/submodules\/foundation-icon-fonts\/README.md": {
+		"criticStyle": 0,
+		"enableFootnotes": 1,
+		"enableLabels": 1,
+		"enableSmartQuotes": 1,
+		"escapeLineBreaks": 0,
+		"fileType": 4096,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/source\/submodules\/foundation-icon-fonts\/README.md",
+		"maskEmailAddresses": 1,
+		"outputAbbreviatedPath": "\/source\/submodules\/foundation-icon-fonts\/README.html",
+		"outputFormat": 0,
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"parseMetadata": 1,
+		"processHTML": 0,
+		"randomFootnoteNumbers": 0,
+		"useCompatibilityMode": 0
+		},
 	"\/source\/submodules\/foundation\/bower.json": {
 		"fileType": 524288,
 		"ignore": 1,
@@ -25589,10 +25975,6 @@
 			}
 		},
 	"jsLintFlags2": {
-		"ass": {
-			"active": 0,
-			"flagValue": -1
-			},
 		"bitwise": {
 			"active": 0,
 			"flagValue": -1
@@ -25601,15 +25983,7 @@
 			"active": 1,
 			"flagValue": -1
 			},
-		"closure": {
-			"active": 0,
-			"flagValue": -1
-			},
-		"continue": {
-			"active": 0,
-			"flagValue": -1
-			},
-		"debug": {
+		"couch": {
 			"active": 0,
 			"flagValue": -1
 			},
@@ -25617,75 +25991,27 @@
 			"active": 0,
 			"flagValue": -1
 			},
-		"eqeq": {
+		"es6": {
 			"active": 0,
 			"flagValue": -1
 			},
-		"evil": {
+		"eval": {
 			"active": 0,
 			"flagValue": -1
 			},
-		"forin": {
+		"for": {
 			"active": 0,
 			"flagValue": -1
-			},
-		"indent": {
-			"active": 0,
-			"flagValue": 4
 			},
 		"maxlen": {
 			"active": 0,
 			"flagValue": 150
 			},
-		"newcap": {
-			"active": 0,
-			"flagValue": -1
-			},
 		"node": {
 			"active": 0,
 			"flagValue": -1
 			},
-		"nomen": {
-			"active": 0,
-			"flagValue": -1
-			},
-		"plusplus": {
-			"active": 0,
-			"flagValue": -1
-			},
-		"properties": {
-			"active": 0,
-			"flagValue": -1
-			},
-		"regexp": {
-			"active": 0,
-			"flagValue": -1
-			},
-		"rhino": {
-			"active": 0,
-			"flagValue": -1
-			},
-		"sloppy": {
-			"active": 0,
-			"flagValue": -1
-			},
-		"stupid": {
-			"active": 0,
-			"flagValue": -1
-			},
-		"sub": {
-			"active": 0,
-			"flagValue": -1
-			},
-		"todo": {
-			"active": 0,
-			"flagValue": -1
-			},
-		"unparam": {
-			"active": 0,
-			"flagValue": -1
-			},
-		"vars": {
+		"this": {
 			"active": 0,
 			"flagValue": -1
 			},

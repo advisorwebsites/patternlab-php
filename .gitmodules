@@ -4,3 +4,6 @@
 [submodule "source/submodules/animate-sass"]
 	path = source/submodules/animate-sass
 	url = https://github.com/tgdev/animate-sass.git
+[submodule "source/submodules/foundation-icon-fonts"]
+	path = source/submodules/foundation-icon-fonts
+	url = https://github.com/zurb/foundation-icon-fonts.git

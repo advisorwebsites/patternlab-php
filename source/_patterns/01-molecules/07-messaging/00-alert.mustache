@@ -1,3 +1,30 @@
-<div class="alert alert-{{ alertClass }}">
+<div data-alert class="alert-box {{ alertClass }}">
 	{{ excerpt.short }}
+  <a href="{{ url }}" class="close">&times;</a>
+</div>
+
+
+<div data-alert class="alert-box success radius">
+  {{ excerpt.short }}
+  <a href="{{ url }}" class="close">&times;</a>
+</div>
+
+<div data-alert class="alert-box warning round">
+  {{ excerpt.short }}
+  <a href="{{ url }}" class="close">&times;</a>
+</div>
+
+<div data-alert class="alert-box info radius">
+  {{ excerpt.short }}
+  <a href="{{ url }}" class="close">&times;</a>
+</div>
+
+<div data-alert class="alert-box alert round">
+  {{ excerpt.short }}
+  <a href="{{ url }}" class="close">&times;</a>
+</div>
+
+<div data-alert class="alert-box secondary">
+ {{ excerpt.short }}
+  <a href="{{ url }}" class="close">&times;</a>
 </div>
