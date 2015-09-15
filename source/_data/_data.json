@@ -89,5 +89,8 @@
 		{ },
 		{ },
 		{ }
-	]
+	],
+	"foundation" : {
+		"images" : "../../submodules/foundation/doc/assets/img/"
+	}
 }
