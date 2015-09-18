@@ -1,38 +1,74 @@
 <fieldset>
-    <div class="field-container">
-        <label for="text">Text Input <abbr title="Required">*</abbr></label>
-        <input id="text" type="text" placeholder="Text Input">
+  <div class="row">
+    <div class="large-4 columns">
+        <label for="text">Text Input <abbr title="Required">*</abbr>
+          <input id="text" type="text" placeholder="Text Input">
+        </label>
     </div>
-    <div class="field-container">
-        <label for="password">Password</label>
-        <input id="password" type="password" placeholder="Type your Password">
+  </div>
+    
+  <div class="row">
+    <div class="large-4 columns">
+        <label for="password">Password
+          <input id="password" type="password" placeholder="Type your Password">
+        </label>
     </div>
-    <div class="field-container">
-        <label for="webaddress">Web Address</label>
+  </div>
+  <div class="row">
+     <div class="large-4 columns">
+      <label for="webaddress">Web Address
         <input id="webaddress" type="url" placeholder="http://yoursite.com">
+      </label>
     </div>
-    <div class="field-container">
-        <label for="emailaddress">Email Address</label>
-        <input id="emailaddress" type="email" placeholder="name@email.com">
+  </div>
+  <div class="row">
+    <div class="large-4 columns">
+        <label for="emailaddress">Email Address
+          <input id="emailaddress" type="email" placeholder="name@email.com">
+        </label>
     </div>
-    <div class="field-container">
-        <label for="search">Search</label>
+  </div>
+  <div class="row">
+    <div class="large-4 columns">
+        <label for="search">Search
         <input id="search" type="search" placeholder="Enter Search Term">
+        </label>
     </div>
-    <div class="field-container">
-        <label for="number">Number Input <abbr title="Required">*</abbr></label>
-        <input id="number" type="number" placeholder="Enter a Number" pattern="[0-9]*">
+  </div>
+    <div class="row">
+      <div class="large-4 columns">
+        <label for="number">Number Input <abbr title="Required">*</abbr>
+          <input id="number" type="number" placeholder="Enter a Number" pattern="[0-9]*">
+        </label>
+      </div>
     </div>
-    <div class="field-container">
+    <div class="row">
+      <div class="large-4 columns">
         <label for="textarea">Textarea</label>
         <textarea id="textarea" rows="8" cols="48" placeholder="Enter your message here"></textarea>
+      </div>
     </div>
-    <div class="field-container">
-        <label class="error">Error Input</label>
-        <input class="is-error" type="text" placeholder="Text Input">
+    <div class="row">
+      <div class="large-4 columns">
+        <label class="error">Error Input
+          <input class="error" type="text" placeholder="Text Input">
+        </label>
+        <small class="error">Invalid entry</small>
+      </div>
     </div>
-    <div class="field-container">
+    <div class="row">
+      <div class="large-4 columns error">
+        <label>Error Input
+          <input type="text" placeholder="Text Input">
+        </label>
+        <small class="error">Invalid entry</small>
+      </div>
+    </div>
+    <div class="row">
+      <div class="large-4 columns">
         <label  class="valid">Valid</label>
         <input  class="is-valid" type="text" placeholder="Text Input">
+      </div>
     </div>
+    
 </fieldset>

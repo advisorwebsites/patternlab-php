@@ -92,5 +92,8 @@
 	],
 	"foundation" : {
 		"images" : "../../submodules/foundation/doc/assets/img/"
+	},
+	"select2" : {
+		"dist" : "../../submodules/select2/dist/"
 	}
 }
