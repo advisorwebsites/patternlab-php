@@ -4,3 +4,5 @@ config.ini
 latest-change.txt
 *-ck.js
 *.sass-cache/
+source/bower_components/*
+source/bower_components/
