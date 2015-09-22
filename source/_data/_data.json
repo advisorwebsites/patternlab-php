@@ -93,7 +93,12 @@
 	"foundation" : {
 		"images" : "../../submodules/foundation/doc/assets/img/"
 	},
-	"select2" : {
-		"dist" : "../../submodules/select2/dist/"
+	"panels" : {
+		"default" : {
+			"title": "Did you know",
+			"body": "Did you know that Advisor Websites integrates with other companies?",
+			"class": "",
+			"attributes": ""
+		}
 	}
 }
