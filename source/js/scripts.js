@@ -52,4 +52,10 @@
       });
     });
   })(); // Execute pikaday()
+
+  (function showHideNext(){
+    $('[data-showhidenext]').on('click', function(){
+      $(this).next().toggle(250);
+    });
+  })();
 })();

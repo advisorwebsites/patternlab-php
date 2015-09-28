@@ -1,0 +1,51 @@
+<div class="row">
+  <div class="columns small-12">
+    <div class="row">
+      <div class="large-24 columns">
+        <label>Publishes
+          <input type="text" placeholder="large-12.columns" />
+        </label>
+      </div>
+    </div>
+    <div class="row">
+      <div class="large-12 columns">
+        <label>Publishes every
+          <input type="text" placeholder="large-12.columns" />
+        </label>
+      </div>
+      <div class="large-12 columns">
+        <label>Post Priority
+          <input type="text" placeholder="large-12.columns" />
+        </label>
+      </div>
+    </div>
+    <div class="row">
+      <div class="large-24 columns">
+        <input id="checkbox-sun" type="checkbox"><label for="checkbox-sun">S</label>
+        <input id="checkbox-mon" type="checkbox"><label for="checkbox-mon">M</label>
+        <input id="checkbox-tue" type="checkbox"><label for="checkbox-tue">T</label>
+        <input id="checkbox-wed" type="checkbox"><label for="checkbox-wed">W</label>
+        <input id="checkbox-thu" type="checkbox"><label for="checkbox-thu">T</label>
+        <input id="checkbox-fri" type="checkbox"><label for="checkbox-fri">F</label>
+        <input id="checkbox-sat" type="checkbox"><label for="checkbox-sat">S</label>
+      </div>
+    </div>
+    <div class="row">
+      <div class="large-24 columns">
+        <label>Summary</label>
+        <p class="summary">Every 2 weeks on Sunday and Wednesday.</p>
+      </div>
+    </div>
+    <div class="row">
+      <div class="large-24 columns">
+        <button id="hello" data-showhidenext >Advanced</button>
+        <div class="hide">
+          <input id="checkbox-delayed" type="checkbox"><label for="checkbox-delayed">Delayed Publishing</label><i class="fi-info has-tip tip-right" data-tooltip title="What is Delayed Publishing?"></i>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="columns small-12">
+    {{> atoms-calendar }}
+  </div>
+</div>
