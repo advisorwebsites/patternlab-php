@@ -92,5 +92,13 @@
 	],
 	"foundation" : {
 		"images" : "../../submodules/foundation/doc/assets/img/"
+	},
+	"panels" : {
+		"default" : {
+			"title": "Did you know",
+			"body": "Did you know that Advisor Websites integrates with other companies?",
+			"class": "",
+			"attributes": ""
+		}
 	}
 }
