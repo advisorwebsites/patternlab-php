@@ -8,6 +8,7 @@ latest-change.txt
 **/node_modules
 */node_modules/
 */node_modules/*
-
+*/bower_components/*
+*/bower_components/
 source/css/*
 config.codekit
