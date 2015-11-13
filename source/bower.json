@@ -26,6 +26,7 @@
     "pikaday": "git@github.com:dbushell/Pikaday.git#~1.3.3",
     "placeholders": "~4.0.1",
     "responsive-tables": "git@github.com:zurb/responsive-tables.git",
-    "select2": "~4.0.0"
+    "select2": "~4.0.0",
+    "angular": "~1.4.7"
   }
 }

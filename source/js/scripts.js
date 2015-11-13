@@ -32,11 +32,15 @@
   (function select2(){
     jQuery.cachedScript('../../bower_components/select2/dist/js/select2.full.min.js').done(function(){
       $.fn.select2.defaults.set("theme", "aw-content-library");
-      var $select = $('select');
+      var $select = $('select.select2').removeClass('select2');
       $select.select2();
       $window.on('resize', Foundation.utils.throttle(function(e){
         $select.select2();
       }, 300));
+      $("select.select2-tags").select2({
+        tags: true,
+        tokenSeparators: [',', ' ']
+      })
     });
   })(); // Execute Select2
 
@@ -48,7 +52,9 @@
           bound: false,
           container: $('.calendar')[0]
         }).pikaday('show');
-        
+        var $pickaDay = $('.pickADay').pikaday({
+          
+        });
       });
     });
   })(); // Execute pikaday()

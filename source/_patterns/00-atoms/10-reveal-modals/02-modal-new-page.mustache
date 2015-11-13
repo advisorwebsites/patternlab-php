@@ -1,18 +1,44 @@
 <div id="modal-page" class="reveal-modal" data-reveal aria-labelledby="modalTitle" aria-hidden="true" role="dialog">
+  <form data-abide>
   <div class="row">
     <div class="columns small-24">
       <h3 id="modalTitle" class="modal-title">New Page</h3>
     </div>
+  </div>
+  <div class="row">
     <div class="columns small-24">
-      <div class="input-group">
-        <h5>Page Title</h5>
-        <label>This title is displayed on the top of the browser window.
-          <input type="text" placeholder="home">
-        </label>
+      {{> molecules-input-with-label-and-title }}
+    </div>
+  </div>
+  <div class="row">
+    <div class="columns small-24">
+      {{> molecules-input-with-label-and-title }}
+    </div>
+  </div>
+  <div class="row">
+    <div class="columns small-24">
+      {{> molecules-textarea-with-label-and-title }}
+    </div>
+  </div>
+  <div class="row">
+    <div class="columns medium-12">
+      {{> molecules-input-with-label-and-title }}
+    </div>
+    <div class="columns medium-12">
+      {{> molecules-input-with-label-and-title }}
+    </div>
+  </div>
+  <div class="row">
+    <div class="column medium-12">
+      {{> molecules-checkbox-with-label-and-title }}
+    </div>
+  </div>
+  <div class="row">
+    <div class="columns small-24">
+      <div class="text-right">
+        <button type="submit" class="button success small">Save Changes</button> <button class="button primary small close">Close</button>
       </div>
     </div>
   </div>
-  <div class="text-right">
-    <button class="button success small">Save Changes</button> <button class="button primary small close">Close</button>
-  </div>
+  </form>
 </div>
