@@ -11,5 +11,6 @@ latest-change.txt
 */bower_components/*
 */bower_components/
 bower_components/*
+source/bower_components/*
 source/css/*
 config.codekit
