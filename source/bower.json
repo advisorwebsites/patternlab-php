@@ -24,7 +24,8 @@
     "ng-responsive-calendar": "~0.1.6",
     "foundation-icon-fonts": "*",
     "moment": "~2.10.6",
-    "SpinKit": "spinkit#~1.2.2"
+    "SpinKit": "spinkit#~1.2.2",
+    "algoliasearch": "3"
   },
   "resolutions": {
     "angular": "~1.5.0"

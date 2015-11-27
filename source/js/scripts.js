@@ -62,7 +62,7 @@
   (function select2(){
     jQuery.cachedScript('../../bower_components/select2/dist/js/select2.full.min.js').done(function(){
       $.fn.select2.defaults.set('theme', 'aw-content-library');
-      var $select = $(context).find('select.select2').removeClass('select2');
+      var $select = $(document).find('select.select2').removeClass('select2');
       if ($select.length) {
         $select.select2();
         $(window).on('resize', Foundation.utils.throttle(function(){
@@ -136,4 +136,69 @@
     $(context).find('#block-aw-dashboard-main-menu').hoverIntent(onHoverAction, offHoverAction);
     $(context).find('#img-logo').hoverIntent(onHoverAction, offHoverAction);
   });
+  (function algolia(){
+
+    function searchCallback(err, content) {
+      var $qResults = $qResults || $('#q-results');
+      var $qInput = $qInput || $('#q-input');
+      var $qEmpty = $qEmpty || $qResults.find('.empty');
+      if (err) {
+        // error
+        return;
+      }
+      if (content.query !== $qInput.val()) {
+        // do not take out-dated answers into account
+        return;
+      }
+      if (content.hits.length === 0) {
+        // no results
+        $qResults.html($qEmpty);
+        return;
+      }
+      var html = '';
+      // Scan all hits and display them
+      for (var i = 0; i < content.hits.length; ++i) {
+        var hit = content.hits[i];
+        html += '<li class="hit">';
+        // for (var attribute in hit._highlightResult) {
+        //   html += '<div class="attribute">' +
+        //     '<span>' + attribute + ': </span>' +
+        //     hit._highlightResult[attribute].value +
+        //     '</div>';
+        // }
+        html += '<a href="' + hit.path + '">';
+        html += hit._highlightResult.name.value;
+        html += '</a>';
+        html += '</li>';
+      }
+      $qResults.html(html);
+    }
+    
+    $(document).ready(function() {
+      var $qButton = $qButton || $('#q-button');
+      var $qResults = $qResults || $('#q-results');
+      var $qEmpty = $qResults.find('.empty');
+      var $qInput = $qInput || $('#q-input');
+      var client = algoliasearch('XXM5C67T6N', '47ce44b6372ab071d847e9c521744b48');
+      var index = client.initIndex('dev_dashboard');
+      $qInput.keyup(function() {
+        index.search($qInput.val(), searchCallback);
+      }).focus().closest('form').on('submit', function() {
+        // on form submit, store the query string in the anchor
+        location.replace('#q=' + encodeURIComponent($qInput.val()));
+        return false;
+      });
+      // check if there is a query in the anchor: http://example.org/#q=my+query
+      if (location.hash && location.hash.indexOf('#q=') === 0) {
+        var q = decodeURIComponent(location.hash.substring(3));
+        $qInput.val(q).trigger('keyup');
+      }
+      $qButton.on('click', function(e) {
+        e.preventDefault();
+        Foundation.libs.dropdown.open($qResults, $qInput);
+        $qResults.focus();
+        e.stopPropagation();
+      });
+    });
+  })();
 })();
